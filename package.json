@@ -14,7 +14,7 @@
   "dependencies": {
     "colors": "1.4.0",
     "dotenv": "16.3.1",
-    "fastify": "4.24.3",
+    "fastify": "5.8.3",
     "openai": "4.20.1",
     "readline-sync": "1.4.10"
   },
